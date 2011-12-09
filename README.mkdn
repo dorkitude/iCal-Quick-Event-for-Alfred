@@ -20,5 +20,4 @@ For example, try typing this into Alfred:
 Love thing
 ==========
 
-Boom!
-
+**Boom!**  Now you have an event in your iCal!
